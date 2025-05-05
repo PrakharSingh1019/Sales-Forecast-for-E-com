@@ -82,14 +82,3 @@ streamlit run app.py
 - openai - AI-powered insights
 - python-dotenv - Environment variable management
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Support
-
-For support, please open an issue in the repository or contact the development team. 
